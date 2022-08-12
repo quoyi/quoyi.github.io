@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  下载 Google 翻译的英语发音
 // @author       iQuoyi
+// @updateURL    https://github.com/quoyi/quoyi.github.io/blob/main/download.js
+// @downloadURL  https://github.com/quoyi/quoyi.github.io/blob/main/download.js
 // @match        https://guides.rubyonrails.org/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant        unsafeWindow
